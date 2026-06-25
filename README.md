@@ -13,8 +13,10 @@ My first Python project. A simple number guessing game with single player and mu
 ```bash
 python number_guessing_game.py
 
+```
+## What i learned
 
-## What I Learned
+
 - `input()` and `int()` for user input
 - `while` loops for validation
 - `if/elif/else` for menu choices
